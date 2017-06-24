@@ -1,0 +1,51 @@
+Project11
+
+
+1- Basics concepts
+
+a- What is a DevOps?
+It is the collaboration and communication between Developers and Operations professionals 
+b- What is GIT?
+Git is aversion contrl system tool that stores historical data, encourages collaboration and allows many people to work on different aspects of a project simultaneouslly.
+c- what is the difference between git and svn?
+1.	Git is a distributed VCS; SVN is a non-distributed VCS.
+2.	Git has a centralized server and repository; SVN does not have a centralized server or repository.
+3.	The content in Git is stored as metadata; SVN stores files of content.
+4.	Git branches are easier to work with than SVN branches.
+5.	Git does not have the global revision number feature like SVN has.
+6.	Git has better content protection than SVN.
+7.	Git was developed for Linux kernel by Linus Torvalds; SVN was developed by CollabNet, Inc.
+8.	Git is distributed under GNU, and its maintenance overseen by Junio Hamano; Apache Subversion, or SVN, is distributed under the open source license.
+
+d- what continious integration?
+is a development practice that requires developers to push and pull code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
+e- what is continious delevery?
+ is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time. It aims at building, testing, and releasing software faster and more frequently.
+f- what is scrum?
+Scrum is a management and control process that cuts through complexity to focus on building products that meet business needs. Scrum itself is a simple framework for effective team collaboration on complex products
+
+g- What is agile methodology?
+Agile method is a software development method that is people-focused commications-oriented, flexible (ready to adapt to expected change at any time), speedy (encourage rapid and iterative development of the product in small releases), lean (focuses on shortening timeframe and cost and on improved quality), responsive (reacts appropriately to expected and unexpected changes), and learning (focuses on improvement during and after product development) 
+
+h- what is a release calender?
+It is a collection of dates on which software are to be released or goes into production.
+
+i- what is release date?
+The date that changes made in the lowest regions goes to productions
+
+2- give 4 raisons why companies should consider the DevOps method
+a. it is cost effective
+b. it saves time
+c. it is efficent
+b. it is flexible
+
+3- what are some automation tools used in the DevOps environment?
+Jenkins, Git,Docker, Ansible, Collectd/Collectl,  Monit
+
+
+4- why is it important to build the software in the test regions before delevering it to production?
+To make sure the software works well.
+5- create a project in your github repository called project4 and in project 4 , create a file called project11
+6- copy your homework11 answers into the file project11 and commit it.
+7- What is the url to access your github project11 file?
+
